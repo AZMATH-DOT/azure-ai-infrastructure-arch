@@ -1,0 +1,8 @@
+{
+  "name": "Azure AI Infrastructure Architect Showcase",
+  "description": "A comprehensive dashboard for visualizing and exploring an end-to-end AI infrastructure on Azure, featuring AKS, Docker, AML, and Grafana monitoring with an integrated Gemini-powered AI architect assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
